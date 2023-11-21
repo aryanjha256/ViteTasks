@@ -1,8 +1,36 @@
-# React + Vite
+# ViteTasks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a basic setup for a Vite project with React. It has been scaffolded using `create-vite` with the following options:
 
-Currently, two official plugins are available:
+- **Project Name:** ViteTasks
+- **Package Name:** vitetasks
+- **Framework:** React
+- **Variant:** JavaScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
+
+### Installation
+
+1. Open a terminal and navigate to the project directory.
+
+   ```bash
+   cd path/to/ViteTasks
+   ```
+
+2. Install the project dependencies.
+
+   ```bash
+   npm install
+   ```
+
+### Run the Development Server
+
+Start the development server by running the following command:
+
+```bash
+npm run dev
+```
