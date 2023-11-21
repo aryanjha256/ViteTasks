@@ -16,7 +16,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 ### Installation
 
-1. Open a terminal
+1. Open a terminal and clone the repository
 
    ```bash
    git clone https://github.com/aryanjha256/ViteTasks.git
