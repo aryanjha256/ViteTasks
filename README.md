@@ -1,6 +1,7 @@
 # ViteTasks
 
-This project is a basic setup for a Vite project with React. It has been scaffolded using `create-vite` with the following options:
+This is a basic task management project using React.
+It has been scaffolded using `create-vite` with the following options:
 
 - **Project Name:** ViteTasks
 - **Package Name:** vitetasks
@@ -15,13 +16,19 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 ### Installation
 
-1. Open a terminal and navigate to the project directory.
+1. Open a terminal
 
    ```bash
-   cd path/to/ViteTasks
+   git clone https://github.com/aryanjha256/ViteTasks.git
    ```
 
-2. Install the project dependencies.
+2. Navigate to the project directory.
+
+   ```bash
+   cd ViteTasks
+   ```
+
+3. Install the project dependencies.
 
    ```bash
    npm install
@@ -34,3 +41,5 @@ Start the development server by running the following command:
 ```bash
 npm run dev
 ```
+
+This will launch the development server, and you can view your project at http://localhost:5173 in your browser.
